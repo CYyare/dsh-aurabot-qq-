@@ -1,0 +1,22 @@
+{
+  "id": "websearch",
+  "name": "联网搜索",
+  "version": "1.0.0",
+  "description": "让她能搜，也能点进链接读正文。可指定搜索网址、限制触发词、别人搜要先问主人、每聊天限流。",
+  "category": "tool",
+  "tags": [
+    "搜索",
+    "联网",
+    "网页"
+  ],
+  "author": "CYyare",
+  "license": "MIT",
+  "api": 1,
+  "minPluginVersion": "1.2.0",
+  "requires": [],
+  "capabilities": [
+    "network",
+    "plugin-config",
+    "plugin-internals"
+  ]
+}
